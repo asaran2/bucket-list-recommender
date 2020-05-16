@@ -1,0 +1,9 @@
+*.class
+node_modules/
+.expo/*
+.expo-shared/*
+test/node_modules/*
+node_modules
+
+BucketList.code-workspace
+.vscode/tasks.json
