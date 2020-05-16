@@ -28,18 +28,17 @@
       "supportsTablet": true,
       "buildNumber": "1.0.0",
       "config": {
-        "googleMapsApiKey": "AIzaSyBqh6uco7iZCh-FOBKWzPxxHAkTpBEtdFI"
+        "googleMapsApiKey": <Your API key>
       }
     },
     "android": {
       "package": "com.bucketlist.app",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyBqh6uco7iZCh-FOBKWzPxxHAkTpBEtdFI"
+          "apiKey": <Your API key>
         },
         "googleSignIn": {
-          "apiKey": "AIzaSyBqh6uco7iZCh-FOBKWzPxxHAkTpBEtdFI",
-          "certificateHash": "263BE8A3B4BEE757AD3CBF77DC7A8CC806D6D6BE"
+          //TODO: Insert API information
         }
       },
       "versionCode": 1
