@@ -1,9 +1,1 @@
-calendar: diplay + recommendations. Problem: doesn't take into account date offset
-
-
-TestSuite.java --> Test file
-
-Common.java --> Supporting class file / methods
-
-Test*.pdf --> Test reports
-
+Bucket List Recommneder: A cross platform React native mobile application that allows the user to add activities to their bucket list and makes recommendations based on user location and calendar availability. It is developed using React Native, Redux and Firebase (A NoSQL database).
